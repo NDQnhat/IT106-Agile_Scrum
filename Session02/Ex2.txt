@@ -1,0 +1,9 @@
+- User Story:
+
+"As a customer, I want to pay for my order using credit cards or e-wallets so that I can complete my purchase quickly and securely."
+
+- Role (Vai trò): Customer (Khách hàng)
+
+- Goal (Mục tiêu): Pay for orders using credit cards or e-wallets (Thanh toán đơn hàng bằng thẻ tín dụng hoặc ví điện tử)
+
+- Benefit (Lợi ích): Complete purchases quickly and securely (Hoàn tất mua hàng nhanh chóng và an toàn)

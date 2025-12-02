@@ -1,0 +1,7 @@
+- User Story:
+
+"As an online shopper, I want to add products to my cart so that I can review and purchase them conveniently."
+
+- Role (Vai trò): Online shopper (Người mua hàng trực tuyến)
+- Goal (Mục tiêu): Add products to the shopping cart (Thêm sản phẩm vào giỏ hàng)
+- Benefit (Lợi ích): Review and purchase items conveniently (Dễ dàng xem lại và mua sản phẩm)

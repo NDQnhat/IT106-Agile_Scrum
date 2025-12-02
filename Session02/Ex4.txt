@@ -1,0 +1,26 @@
+- Product Backlog cho ứng dụng web đặt vé sự kiện (tìm kiếm – chọn – đặt vé):
+
+1. Tìm kiếm sự kiện
+    - Mô tả: Người dùng có thể tìm kiếm sự kiện theo tên, loại sự kiện, địa điểm hoặc thời gian tổ chức.
+    - Ưu tiên: Must have
+    - Story Points: 3
+
+2. Xem chi tiết sự kiện
+    - Mô tả: Người dùng có thể xem thông tin chi tiết của sự kiện như mô tả, thời gian, địa điểm, giá vé, số lượng vé còn lại.
+    - Ưu tiên: Must have
+    - Story Points: 5
+
+3. Chọn số lượng và loại vé
+    - Mô tả: Người dùng có thể chọn loại vé (VIP, Thường, Online…), số lượng vé và thêm vào giỏ đặt vé.
+    - Ưu tiên: Must have
+    - Story Points: 5
+
+4. Thanh toán và xác nhận đặt vé
+    - Mô tả: Người dùng có thể thanh toán vé qua các phương thức như thẻ tín dụng, ví điện tử và nhận email xác nhận đặt vé.
+    - Ưu tiên: Must have
+    - Story Points: 8
+
+5. Quản lý vé đã đặt
+    - Mô tả: Người dùng có thể xem lịch sử vé đã đặt, tải vé điện tử hoặc xem mã QR để tham dự sự kiện.
+    - Ưu tiên: Should have
+    - Story Points: 5

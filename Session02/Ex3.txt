@@ -1,0 +1,26 @@
+- Product Backlog cho ứng dụng quản lý công việc, gồm 5 Product Backlog Items:
+
+1. Tạo công việc mới
+    - Mô tả: Người dùng có thể tạo công việc mới, nhập tiêu đề, mô tả, mức độ ưu tiên và ngày hoàn thành.
+    - Ưu tiên: Must have
+    - Story Points: 3
+
+2. Chỉnh sửa và cập nhật công việc
+    - Mô tả: Người dùng có thể chỉnh sửa tiêu đề, mô tả, trạng thái hoặc ngày hoàn thành của công việc hiện có.
+    - Ưu tiên: Must have
+    - Story Points: 5
+
+3. Đánh dấu công việc hoàn thành
+    - Mô tả: Người dùng có thể đánh dấu một công việc là đã hoàn thành và hệ thống sẽ hiển thị trạng thái mới.
+    - Ưu tiên: Must have
+    - Story Points: 2
+
+4. Danh sách công việc theo trạng thái
+    - Mô tả: Người dùng có thể xem danh sách công việc theo các trạng thái như: Tất cả, Đang thực hiện, Đã hoàn thành, Quá hạn.
+    - Ưu tiên: Should have
+    - Story Points: 5
+
+5. Thông báo nhắc nhở công việc
+    - Mô tả: Ứng dụng gửi thông báo nhắc nhở khi công việc sắp đến hạn hoặc quá hạn.
+    - Ưu tiên: Could have
+    - Story Points: 8
