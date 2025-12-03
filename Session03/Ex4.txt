@@ -1,0 +1,16 @@
+- User Story: "As a user, I want to log in to the banking app to access my account"
+
+- Điểm chọn ban đầu:
+    + Dev A: 5 điểm
+    + Dev B: 8 điểm
+    + Tester C: 13 điểm
+    + PO: 8 điểm
+
+- Thảo luận:
+    + 5 điểm: Dev A nghĩ đăng nhập chỉ là form + API.
+    + 13 điểm: Tester cho rằng có nhiều case test bảo mật.
+    + 8 điểm: Dev B và PO nhấn mạnh yêu cầu bảo mật cao của ngân hàng (khóa tài khoản, chống brute-force…).
+
+- Kết quả thống nhất:
+    + Điểm Story cuối cùng: 8 điểm
+    + Lý do: Đăng nhập ngân hàng phức tạp hơn bình thường do yêu cầu bảo mật, nhưng chưa đến mức 13 điểm.

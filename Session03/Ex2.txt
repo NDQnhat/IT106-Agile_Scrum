@@ -1,0 +1,6 @@
+- User Story
+    + "As a customer, I would like to pay for my order to complete my purchase."
+
+- Ước lượng Story Points: 13 điểm
+- Giải thích lý do:
+    + Tính năng "Thanh toán đơn hàng" là một trong những phần phức tạp nhất của hệ thống thương mại điện tử vì liên quan đến nhiều bước xử lý, nhiều trạng thái, nhiều rủi ro và yêu cầu bảo mật cao.

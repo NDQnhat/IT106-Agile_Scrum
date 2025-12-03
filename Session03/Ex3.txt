@@ -1,0 +1,17 @@
+- User Story
+"As a customer, I would like to pay for my order to complete my purchase."
+
+- Planning Poker – Chọn điểm Story
+    + Dev A: 8 điểm
+    + Dev B: 13 điểm
+    + Tester C: 20 điểm
+    + PO: 13 điểm
+
+- Thảo luận sự khác biệt
+    + 8 điểm: Dev A cho rằng chỉ tích hợp 1 cổng thanh toán nên không quá phức tạp.
+    + 20 điểm: Tester cho rằng có nhiều case lỗi và cần nhiều thời gian test.
+    + 13 điểm: Dev B và PO cho rằng tính năng phức tạp vừa phải: có callback, xử lý trạng thái, bảo mật nhưng không đến mức rất lớn.
+
+- Kết quả thống nhất
+    + Điểm Story cuối cùng: 13 điểm
+    + Lý do: Tính năng đòi hỏi xử lý nhiều bước (tính phí, gọi API thanh toán, nhận callback, cập nhật trạng thái, xử lý lỗi) nhưng vẫn nằm trong phạm vi phức tạp trung bình-cao, không quá lớn như mức 20.

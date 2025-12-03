@@ -1,0 +1,7 @@
+- User Story
+    + "As a user, I want to create new jobs so that I can manage and track the progress of the jobs."
+
+- Ước lượng Story Points: 8 điểm
+- Giải thích lý do:
+    + Tính năng "Tạo công việc mới" thường trông đơn giản, nhưng để triển khai hoàn chỉnh, bạn cần xử lý nhiều khía cạnh kỹ thuật và trải nghiệm người dùng. 
+    + Mức 8 điểm (theo thang Fibonacci: 1–2–3–5–8–13…) phản ánh mức độ khá phức tạp, nhưng không đến mức khó hoặc nhiều rủi ro như 13 điểm.
