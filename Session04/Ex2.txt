@@ -1,0 +1,32 @@
+- Tiến độ: Đường burndown thực tế giảm đều từ 100 → 60 theo từng ngày. Mỗi ngày burn được 10 điểm.
+
+- Giải thích Burndown Chart
+    + Đường giảm đều, không có ngày tăng hoặc đứng yên.
+    + Sau 5 ngày, nhóm đã burn được 40/100 điểm → đúng tốc độ kỳ vọng.
+    + Nếu duy trì tiến độ này, nhóm sẽ hoàn thành Sprint đúng hạn.
+
+- Hành động của Scrum Master nếu muốn củng cố tiến độ:
+    + Tiếp tục loại bỏ impediment ngay khi xuất hiện.
+    + Nhắc team giữ Daily Scrum đúng mục tiêu.
+    + Đảm bảo không có work-in-progress quá nhiều.
+
+- Nếu Burndown Chart không giảm đều:
+    + Tình huống:
+    Ngày 5 lẽ ra còn 60 → nhưng còn 80 (chỉ burn 20 điểm trong 5 ngày).
+    Đường burndown đi ngang → rủi ro không hoàn thành Sprint Goal.
+
+    Hành động Scrum Master:
+    1. Kiểm tra impediments ngay lập tức
+        Developer bị block?
+        Chờ API?
+        Phụ thuộc bên ngoài?
+    2. Tổ chức thảo luận sau Daily Scrum (Not Daily Scrum!)
+        Phân tích vì sao burn thấp: task quá lớn? ước lượng sai? chia việc chưa hợp lý?
+    3. Hỗ trợ Product Owner
+        Ưu tiên lại backlog trong Sprint nếu cần.
+        Đàm phán bỏ bớt scope (tối ưu Sprint Goal).
+    4. Khuyến khích kỹ thuật
+        Chia nhỏ task để dễ burn.
+        Pair programming nếu có phần khó.
+    5. Theo dõi chặt hơn các ngày tiếp theo
+        Cập nhật biểu đồ mỗi ngày để phát hiện bất thường.

@@ -1,0 +1,26 @@
+Kịch bản Daily Scrum 
+
+- Scrum Master:
+"Chào mọi người, chúng ta bắt đầu Daily Scrum. Mỗi người trả lời 3 câu hỏi: hôm qua làm gì, hôm nay làm gì, có vướng mắc gì không."
+
+- Developer 1:
+    + Hôm qua: Hoàn thành phần giao diện màn hình đăng nhập.
+    + Hôm nay: Tích hợp API đăng nhập.
+    + Vướng mắc: API trả về lỗi 500 khi gửi request.
+- Scrum Master: "Tốt, ghi nhận. Chúng ta sẽ bàn sau họp."
+
+
+- Developer 2:
+    + Hôm qua: Viết unit test cho module xử lý dữ liệu.
+    + Hôm nay: Tiếp tục test và tối ưu hiệu năng.
+    + Vướng mắc: Không.
+
+- Developer 3:
+    + Hôm qua: Thiết kế workflow cho chức năng thông báo.
+    + Hôm nay: Bắt đầu lập trình phần backend.
+    + Vướng mắc: Cần xác nhận format dữ liệu từ Product Owner.
+- Scrum Master: “Ok, sau họp mình kết nối bạn với PO.”
+
+
+- Scrum Master kết thúc:
+"Không còn gì nữa thì chúng ta kết thúc tại đây. Các vấn đề sẽ được xử lý sau buổi họp. Cảm ơn mọi người!"

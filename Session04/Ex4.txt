@@ -1,0 +1,41 @@
+1. Nhận xét đường Burndown:
+    - Đường giảm đều theo phương ngang nhưng chậm hơn lý tưởng (10 điểm/ngày thay vì 12).
+    - Sau 5 ngày, nhóm còn 70 điểm, trong khi lý tưởng chỉ còn 72 → tiến độ gần như bám theo đường lý tưởng, hơi chậm nhưng vẫn chấp nhận được.
+
+2. Giả sử ngày thứ 6 có vấn đề:
+- Ngày 6:
+    Điểm còn lại vẫn 70 (burn = 0)
+- Biểu đồ phản ánh:
+    Đường Burndown đứng ngang tại ngày 6 → dấu hiệu rõ ràng bị chặn (impediment).
+    Đường thực tế bắt đầu lệch xa khỏi đường lý tưởng (lẽ ra còn 60).
+- Nhóm điều chỉnh thế nào?
+    Scrum Master tổ chức ngay các hành động:
+    1. Daily Scrum phân tích impediment: xác định máy chủ lỗi / thiếu tester / task phụ thuộc PO.
+    2. Scrum Master tháo gỡ vướng mắc:
+        + Liên hệ DevOps sửa môi trường
+        + Thay đổi phân công để hỗ trợ người thiếu tài nguyên
+        + Làm việc với PO để giảm scope nếu cần
+    3. Team lập kế hoạch bù:
+        + Tăng cường pair-programming
+        + Hoàn thành nhanh các task còn dở
+        + Tập trung vào các item quan trọng nhất (prefer high priority PBIs)
+
+3. Scrum Master sử dụng Burndown Chart để:
+    1. Theo dõi tiến độ hàng ngày
+        + Phát hiện sớm khi đường không giảm hoặc giảm quá ít.
+        + Nhận ra xu hướng trễ hạn.
+
+    2. Nhận diện impediments
+        + Đường đi ngang = nhóm bị kẹt.
+        + Đường giảm chậm = ước lượng sai, task quá lớn, hoặc hiệu suất thấp.
+
+    3. Hành động xử lý ngay
+        + Scrum Master cần:
+        + Hỗ trợ team gỡ chặn (liên hệ PO, DevOps, khách hàng…).
+        + Nhắc team chia nhỏ task để burn đều hơn.
+        + Hướng dẫn team tập trung vào Sprint Goal, tránh làm việc ngoài ưu tiên.
+        + Giúp nhóm đánh giá lại khả năng hoàn thành Sprint, đề xuất điều chỉnh scope nếu cần.
+
+    4. Đảm bảo minh bạch – kiểm tra – thích nghi
+        + Cập nhật Burndown mỗi ngày (hoặc yêu cầu team cập nhật).
+        + Sử dụng biểu đồ như một công cụ để đưa ra quyết định kịp thời.

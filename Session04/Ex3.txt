@@ -1,0 +1,44 @@
+1. Mô phỏng Daily Scrum trong một ngày của Sprint:
+
+- Scrum Master: “Chúng ta bắt đầu Daily Scrum. Mỗi người báo cáo ngắn gọn 3 câu hỏi.”
+
+- Developer A
+    + Hôm qua: Hoàn thiện giao diện màn hình đăng ký người dùng.
+    + Hôm nay: Tích hợp API tạo tài khoản.
+    + Vướng mắc: API trả về lỗi 401 khi gửi dữ liệu.
+
+- Developer B
+    + Hôm qua: Hoàn thành logic xử lý thông báo (notification service).
+    + Hôm nay: Viết unit test cho module thông báo.
+    + Vướng mắc: Không.
+
+- Developer C
+    + Hôm qua: Phân tích yêu cầu cho tính năng lịch sử giao dịch.
+    + Hôm nay: Bắt đầu thiết kế database.
+    + Vướng mắc: Thiếu tài liệu mô tả chi tiết từ khách hàng.
+
+2. Mô phỏng cách nhóm giải quyết vấn đề
+- Scrum Master:
+"Chúng ta ghi nhận hai vấn đề: lỗi API 401 và thiếu tài liệu khách hàng. Sau cuộc họp, chúng ta sẽ:"
+
+    2.1 Developer A + Developer B cùng kiểm tra lại header và token của API.
+    2.2 Scrum Master liên hệ Product Owner ngay sau họp để yêu cầu bổ sung tài liệu còn thiếu.
+    2.3 Lập một mini-meeting 15 phút sau Daily Scrum để bàn chi tiết cách xử lý—không thảo luận sâu ngay trong Daily Scrum.
+
+3. Lời khuyên để giữ cuộc họp ngắn gọn và hiệu quả
+    - Giới hạn thời gian Daily Scrum tối đa 15 phút.
+    - Trả lời đúng 3 câu hỏi cốt lõi, không lan man, không giải thích kỹ thuật quá sâu.
+    - Mọi thảo luận chi tiết, tranh luận kỹ thuật → để lại sau họp (after-meeting).
+    - Đứng họp (stand-up) để mọi người giữ sự tập trung.
+    - Scrum Master kiểm soát thời lượng cho từng thành viên.
+    - Tập trung vào tiến độ hướng đến Sprint Goal, không báo cáo công việc linh tinh.
+
+4. Vai trò của Scrum Master trong cuộc họp
+Trong buổi Daily Scrum, Scrum Master sẽ:
+    - Mở cuộc họp đúng giờ và nhắc lại mục đích cuộc họp.
+    - Giữ cuộc họp trong phạm vi: chỉ trả lời 3 câu hỏi, không đi sâu vào giải pháp kỹ thuật.
+    - Nhận diện impediments (trở ngại) và ghi lại để xử lý ngoài cuộc họp.
+    - Khuyến khích từng thành viên phát biểu ngắn gọn, tập trung vào tiến độ.
+    - Đảm bảo bầu không khí hợp tác, không phán xét.
+    - Nhắc nhở team về Sprint Goal để tránh lệch hướng.
+    - Hỗ trợ kết nối với Product Owner hoặc các bộ phận liên quan khi cần.
